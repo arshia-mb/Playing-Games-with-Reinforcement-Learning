@@ -1,0 +1,6 @@
+gymnasium[atari]
+gymnasium[accept-rom-license]
+pytorch
+tqdm
+opencv-python
+plotly
